@@ -1,0 +1,10 @@
+{
+    "name": "Test Deployent Workflow",
+    "description": "Test Deployment starter workflow.",
+    "iconName": "octicon server",
+    "categories": [
+        "deployment"
+    ],
+    "filePatterns": [
+    ]
+}
